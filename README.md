@@ -47,7 +47,7 @@
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;SYSTEM://about_me</h2>
 
-<img align="right" alt="Coding" width="350" src="coding.jpg" style="border-radius: 10px;" />
+<img align="right" alt="Coding" width="350" src="programmer.jpg" />
 
 ```ts
 interface Developer {
