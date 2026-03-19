@@ -29,7 +29,7 @@
 <br/><br/>
 
 <!-- Social Links -->
-<a href="https://portfolio-phi-snowy-40.vercel.app/"><img src="https://img.shields.io/badge/⚡_PORTFOLIO-00d4ff?style=for-the-badge&labelColor=000428"/></a>
+<a href="https://portfolio-aditya-shinde-40.vercel.app/"><img src="https://img.shields.io/badge/⚡_PORTFOLIO-00d4ff?style=for-the-badge&labelColor=000428"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aditya-shinde-307264355/"><img src="https://img.shields.io/badge/⚡_LINKEDIN-0077B5?style=for-the-badge&labelColor=000428&logo=linkedin&logoColor=0077B5"/></a>
 &nbsp;
