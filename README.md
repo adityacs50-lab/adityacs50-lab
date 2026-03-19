@@ -1,172 +1,243 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=300&section=header&text=Aditya%20Shinde&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%20%E2%80%A2%20%20AI%20Engineer%20%20%E2%80%A2%20%20Builder&descSize=20&descAlignY=58&descAlign=50"/>
+<!-- Cyberpunk Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:0d1117,50:161b22,75:0d1117,100:000000&height=150&section=header"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%9A%80+Building+Production-Ready+Applications;%F0%9F%A4%96+AI-Powered+Solutions+with+Claude+%26+Gemini;%E2%9C%A8+Turning+Ideas+Into+Scalable+Products;%F0%9F%92%BB+10%2B+Projects+%7C+3+Production+Apps+%7C+15%2B+Technologies" alt="Typing SVG" /></a>
+<!-- Glitch Name Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=70&lines=%3E_%20ADITYA+SHINDE;%3E_%20FULL-STACK+DEV;%3E_%20AI+ENGINEER;%3E_%20SYSTEM+BUILDER" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Social Badges -->
-<a href="https://portfolio-phi-snowy-40.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-c9a84c?style=for-the-badge&labelColor=0a0a0a" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/aditya-shinde-307264355/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
-</a>
-&nbsp;
-<a href="mailto:educomedyhq23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=adityacs50-lab&style=for-the-badge&color=c9a84c&label=VISITORS&labelColor=0a0a0a" />
+<!-- Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5B+Full-Stack+Developer+%E2%94%82+AI+Integration+Engineer+%E2%94%82+Production+Builder+%5D" />
 
 <br/><br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Neon Social Badges -->
+<a href="https://portfolio-phi-snowy-40.vercel.app/">
+  <img src="https://img.shields.io/badge/%E2%97%86_PORTFOLIO-00F0FF?style=for-the-badge&logoColor=black&labelColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/aditya-shinde-307264355/">
+  <img src="https://img.shields.io/badge/%E2%97%86_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:educomedyhq23@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%97%86_EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/adityacs50-lab">
+  <img src="https://img.shields.io/badge/%E2%97%86_GITHUB-8B949E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
-<!-- ABOUT ME SECTION -->
+<!-- TERMINAL INTRO -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; About Me
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                        ║
+ ║   > SYSTEM BOOT: Aditya Shinde — Developer Environment v3.0           ║
+ ║   > STATUS: ONLINE ██████████████████████████████████████████ 100%     ║
+ ║   > LOCATION: India 🇮🇳                                                ║
+ ║   > SPECIALIZATION: Full-Stack Development × AI Integration            ║
+ ║   > PROJECTS DEPLOYED: 3 Production | 10+ Total | 21 Repositories     ║
+ ║   > MISSION: Building software that ships and scales                   ║
+ ║                                                                        ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-I'm a **Full-Stack Developer & AI Integration Engineer** from India 🇮🇳, passionate about building production-ready applications that solve real problems.
+<!-- ABOUT -->
 
-I specialize in creating **AI-powered platforms**, **real-time web applications**, and **scalable full-stack systems** using modern technologies.
+## `> whoami`
 
-- 🔭 Currently building **AI-powered production apps**
-- 🤖 Working with **Claude AI, Gemini & LLM Integration**
-- 🌱 Learning **Advanced System Design & Cloud Architecture**
-- 💼 Open to **freelance projects & collaborations**
-- ⚡ Fun fact: I code from coffee shops ☕
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444a6b6e504131624a302d64516f62374b543242695a505a4e7a7a4c4f4c71306b6e4f7a42664a71695973596a35535a783666444a584f414a33466f752d51365a5937664b454d53535a374b6a534e33684f6752574a596c457a4236444f786a47544f7166464c67724d57454e726b6855556557513746584e4a4d56476272486d5a784a54496e635a4f4c303164384f46783337644b425830506b544e446a6e577241775754746555744d4a55565a54486f695a78714a636e574741544d544667684e5a62376f644c735168324f5374764e5468435844694e56516756384f63365a6c304c47715a6b6758706a736e3659657346393659375073365247456a4e47467a48546f4b6a4562574e35615a4f63467a4a656c75583053476f5a66323970596e303641"  />
 
-<br/>
+```js
+class Developer {
+    constructor() {
+        this.name = "Aditya Shinde";
+        this.role = "Full-Stack Developer & AI Engineer";
+        this.languages = ["JavaScript", "TypeScript", "Python", "Java"];
+        this.focus = "Production-Ready AI Applications";
+    }
 
-```javascript
-const aditya = {
-    role: "Full-Stack Developer & AI Engineer",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    focus: ["AI Integration", "Full-Stack Apps", "Real-Time Systems"],
-    currentlyBuilding: "Production-Ready AI Applications",
-    funFact: "I turn coffee into production code ☕→💻"
-};
+    getCurrentProjects() {
+        return [
+            "🔮 Hackmate — AI Team Matching Platform",
+            "🧠 AI Study Assistant — Claude-Powered Learning",
+            "🚀 Levaluplife — TypeScript Full-Stack App"
+        ];
+    }
+
+    getSkills() {
+        return {
+            frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+            backend:  ["Node.js", "Express", "REST APIs"],
+            database: ["MongoDB", "PostgreSQL", "Supabase"],
+            ai:       ["Claude API", "Gemini", "LLM Integration"],
+            devops:   ["Vercel", "Docker", "CI/CD", "Git"]
+        };
+    }
+}
 ```
 
 <br clear="right"/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <!-- TECH STACK -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">&nbsp; Tech Arsenal
+## `> cat tech_stack.json`
 
 <div align="center">
+<br/>
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-### 🎨 Frontend
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><b>React</b>
 </td>
-<td align="center" width="50%">
-
-### ⚙️ Backend
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br><b>Java</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
+<br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br><b>Docker</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-### 🤖 AI / ML
-<br/>
-
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Integration-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-10B981?style=for-the-badge&logo=probot&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br><b>GitHub</b>
 </td>
-<td align="center" width="50%">
-
-### 🚀 DevOps & Tools
-<br/>
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br><b>REST API</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
+<br><b>Prettier</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+<br><b>Tailwind</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+<br><b>PostgreSQL</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
+<br><b>Supabase</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
+<br><b>Express</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+<br><b>Vercel</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+<br><b>Vite</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+<br><b>Git</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
+<br><b>CSS3</b>
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- AI Stack Special -->
+<img src="https://img.shields.io/badge/CLAUDE_AI-191919?style=for-the-badge&logo=anthropic&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/GEMINI_AI-191919?style=for-the-badge&logo=google&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/LLM_INTEGRATION-191919?style=for-the-badge&logo=openai&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-191919?style=for-the-badge&logo=probot&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/AI_AGENTS-191919?style=for-the-badge&logo=robot-framework&logoColor=00F0FF" />
+
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<!-- FEATURED PROJECTS -->
+<!-- PROJECTS -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; Production Projects
+## `> ls -la ~/projects/`
 
 <div align="center">
 <br/>
 
-<!-- Hackmate -->
+<!-- Row 1 -->
 <a href="https://github.com/adityacs50-lab/Hackmate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Hackmate&theme=github_dark&border_color=c9a84c&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Hackmate&theme=radical&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=ff006e&text_color=8b949e" width="49%" />
 </a>
-&nbsp;
 <a href="https://github.com/adityacs50-lab/Ai-study-assistant-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Ai-study-assistant-&theme=github_dark&border_color=c9a84c&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Ai-study-assistant-&theme=radical&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=ff006e&text_color=8b949e" width="49%" />
 </a>
 
+<!-- Row 2 -->
 <a href="https://github.com/adityacs50-lab/Levaluplife">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Levaluplife&theme=github_dark&border_color=c9a84c&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Levaluplife&theme=radical&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=ff006e&text_color=8b949e" width="49%" />
 </a>
-&nbsp;
 <a href="https://github.com/adityacs50-lab/Kael-UI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Kael-UI&theme=github_dark&border_color=c9a84c&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=Kael-UI&theme=radical&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=ff006e&text_color=8b949e" width="49%" />
 </a>
 
+<!-- Row 3 -->
 <a href="https://github.com/adityacs50-lab/EcoSort-Ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=EcoSort-Ai&theme=github_dark&border_color=c9a84c&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=EcoSort-Ai&theme=radical&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=ff006e&text_color=8b949e" width="49%" />
 </a>
-&nbsp;
 <a href="https://github.com/adityacs50-lab/VibeArch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=VibeArch&theme=github_dark&border_color=c9a84c&bg_color=0d1117&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacs50-lab&repo=VibeArch&theme=radical&border_color=00f0ff&bg_color=0d1117&title_color=00f0ff&icon_color=ff006e&text_color=8b949e" width="49%" />
 </a>
 
 </div>
@@ -175,128 +246,140 @@ const aditya = {
 
 <div align="center">
 
-### 🏆 Project Highlights
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  PROJECT                │  DESCRIPTION                              │  STATUS  │
+├─────────────────────────┼─────────────────────────────────────────────┼──────────┤
+│  ► Hackmate             │  AI team matching · 150+ skills · DM chat │  ██ LIVE │
+│  ► AI Study Assistant   │  Claude AI tutor · PDF upload · streaming │  ██ LIVE │
+│  ► Levaluplife          │  TypeScript · Supabase · CI/CD pipeline   │  ██ LIVE │
+│  ► Kael-UI              │  JARVIS-style AI interface · Python       │  █░ DEV  │
+│  ► EcoSort AI           │  Smart waste scanner · eco guidance       │  █░ DEV  │
+│  ► VibeArch             │  Gemini hackathon ideation tool           │  █░ DEV  │
+│  ► Visionai             │  Computer vision AI application           │  █░ DEV  │
+└─────────────────────────┴─────────────────────────────────────────────┴──────────┘
+```
 
 </div>
-
-| Project | Description | Tech | Status |
-|:--------|:-----------|:-----|:------:|
-| **[Hackmate](https://github.com/adityacs50-lab/Hackmate)** | AI-powered hackathon team matching with 150+ skill categories & in-app DM chat | `JavaScript` `MongoDB` `Node.js` `AI` | ![Production](https://img.shields.io/badge/Production-4ade80?style=flat-square) |
-| **[AI Study Assistant](https://github.com/adityacs50-lab/Ai-study-assistant-)** | Claude AI-powered study companion with ChatGPT-style UI & 100MB PDF uploads | `TypeScript` `React` `Claude API` | ![Production](https://img.shields.io/badge/Production-4ade80?style=flat-square) |
-| **[Levaluplife](https://github.com/adityacs50-lab/Levaluplife)** | Type-safe full-stack app with Supabase PostgreSQL & Vercel CI/CD pipeline | `TypeScript` `React` `Supabase` | ![Deployed](https://img.shields.io/badge/Deployed-a78bfa?style=flat-square) |
-| **[Kael-UI](https://github.com/adityacs50-lab/Kael-UI)** | JARVIS-style AI interface — futuristic voice-activated assistant UI | `Python` | ![Active](https://img.shields.io/badge/Active-60a5fa?style=flat-square) |
-| **[EcoSort AI](https://github.com/adityacs50-lab/EcoSort-Ai)** | Smart waste scanner with AI sorting guidance for recycling & sustainability | `TypeScript` | ![Active](https://img.shields.io/badge/Active-60a5fa?style=flat-square) |
-| **[VibeArch](https://github.com/adityacs50-lab/VibeArch)** | AI hackathon ideation tool using Gemini for generating winning concepts | `TypeScript` | ![Active](https://img.shields.io/badge/Active-60a5fa?style=flat-square) |
-| **[Visionai](https://github.com/adityacs50-lab/Visionai)** | Computer vision AI application built with JavaScript | `JavaScript` | ![Active](https://img.shields.io/badge/Active-60a5fa?style=flat-square) |
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ry4/giphy.gif" width="35">&nbsp; GitHub Analytics
+## `> neofetch --stats`
 
 <div align="center">
 <br/>
 
 <a href="https://github.com/adityacs50-lab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityacs50-lab&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=c9a84c&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e&ring_color=c9a84c&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityacs50-lab&layout=compact&theme=github_dark&bg_color=0d1117&border_color=c9a84c&title_color=c9a84c&text_color=8b949e&hide_border=false&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityacs50-lab&show_icons=true&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&icon_color=ff006e&text_color=8b949e&ring_color=00f0ff&hide_border=false&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityacs50-lab&layout=compact&bg_color=0d1117&border_color=00f0ff&title_color=00f0ff&text_color=8b949e&hide_border=false&langs_count=8&custom_title=🔥%20Top%20Languages" />
 </a>
 
 <br/><br/>
 
 <!-- Streak -->
 <a href="https://github.com/adityacs50-lab">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityacs50-lab&theme=dark&background=0d1117&border=c9a84c&stroke=c9a84c&ring=c9a84c&fire=c9a84c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9a84c&sideLabels=888888&dates=555555" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityacs50-lab&background=0d1117&border=00f0ff&stroke=00f0ff&ring=ff006e&fire=ff006e&currStreakNum=00f0ff&sideNums=00f0ff&currStreakLabel=ff006e&sideLabels=8b949e&dates=555555" width="58%" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/adityacs50-lab">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityacs50-lab&bg_color=0d1117&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=c9a84c&hide_border=false&custom_title=📈%20Contribution%20Timeline" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityacs50-lab&bg_color=0d1117&color=00f0ff&line=ff006e&point=ffffff&area=true&area_color=00f0ff&hide_border=false&custom_title=%F0%9F%93%88%20Neural%20Activity%20Map" width="95%"/>
 </a>
 
 <br/><br/>
 
 <!-- Trophies -->
 <a href="https://github.com/adityacs50-lab">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityacs50-lab&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adityacs50-lab&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="90%" />
 </a>
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<!-- WHAT I DO -->
+<!-- SKILLS MATRIX -->
 
-## 🎯 What I Bring to the Table
+## `> cat capabilities.sys`
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   🤖  AI Integration     →  Claude, Gemini, LLMs, AI Agents     │
-│   🌐  Full-Stack Apps    →  React, Node.js, TypeScript, Next.js  │
-│   🗄️  Database Design    →  MongoDB, PostgreSQL, Supabase        │
-│   🚀  DevOps & Deploy    →  Vercel, Docker, CI/CD, GitHub Actions│
-│   📱  Responsive Design  →  Mobile-first, Tailwind, Modern CSS   │
-│   ⚡  Real-time Systems  →  WebSockets, Streaming, Live Chat     │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+ ┌─── SYSTEMS ARCHITECTURE ────────────────────────────────────────────────┐
+ │                                                                         │
+ │   ╔══════════════╗    ╔══════════════╗    ╔══════════════╗              │
+ │   ║  FRONTEND    ║    ║  BACKEND     ║    ║  AI / ML     ║              │
+ │   ║  ▓▓▓▓▓▓▓▓░░  ║    ║  ▓▓▓▓▓▓▓░░░  ║    ║  ▓▓▓▓▓▓▓░░░  ║              │
+ │   ║  React       ║    ║  Node.js     ║    ║  Claude AI   ║              │
+ │   ║  TypeScript  ║    ║  Express     ║    ║  Gemini      ║              │
+ │   ║  Next.js     ║    ║  MongoDB     ║    ║  LLMs        ║              │
+ │   ║  Tailwind    ║    ║  PostgreSQL  ║    ║  AI Agents   ║              │
+ │   ╚══════════════╝    ╚══════════════╝    ╚══════════════╝              │
+ │                                                                         │
+ │   ╔══════════════╗    ╔══════════════╗    ╔══════════════╗              │
+ │   ║  DEVOPS      ║    ║  DATABASE    ║    ║  REAL-TIME   ║              │
+ │   ║  ▓▓▓▓▓▓░░░░  ║    ║  ▓▓▓▓▓▓▓░░░  ║    ║  ▓▓▓▓▓▓▓░░░  ║              │
+ │   ║  Vercel      ║    ║  Supabase    ║    ║  WebSockets  ║              │
+ │   ║  Docker      ║    ║  MongoDB     ║    ║  Streaming   ║              │
+ │   ║  CI/CD       ║    ║  PostgreSQL  ║    ║  Live Chat   ║              │
+ │   ║  Git         ║    ║  REST APIs   ║    ║  Sync        ║              │
+ │   ╚══════════════╝    ╚══════════════╝    ╚══════════════╝              │
+ │                                                                         │
+ └─────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <!-- CONNECT -->
 
-## 🤝 Let's Build Something Amazing
+## `> ./connect.sh`
 
 <div align="center">
 <br/>
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > TRANSMISSION OPEN                                        ║
+║   > READY TO COLLABORATE ON YOUR NEXT PROJECT                ║
+║                                                              ║
+║   🚀 Freelance      🤝 Collaborations     💡 Open Source    ║
+║   🏆 Hackathons     ☕ Coffee Chats        🤖 AI Projects   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
 <a href="https://portfolio-phi-snowy-40.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-c9a84c?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/►_EXPLORE_PORTFOLIO-00F0FF?style=for-the-badge&labelColor=000000" />
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/aditya-shinde-307264355/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/►_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
-&nbsp;
 <a href="mailto:educomedyhq23@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/adityacs50-lab">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/►_SEND_TRANSMISSION-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 
 <br/><br/>
 
-### 💬 I'm Open To
+<img src="https://komarev.com/ghpvc/?username=adityacs50-lab&style=for-the-badge&color=00f0ff&label=PROFILE+SCANS&labelColor=000000" />
 
-`🚀 Freelance Projects` &nbsp; `🤝 Team Collaborations` &nbsp; `💡 Open Source` &nbsp; `🏆 Hackathons` &nbsp; `☕ Coffee Chats`
+<br/><br/>
 
-<br/>
-
----
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20when%20it%20solves%20real%20problems.%20Ship%20fast%2C%20iterate%20faster.&author=Aditya%20Shinde" />
-
-<br/>
-
-<!-- Snake Animation -->
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -305,10 +388,13 @@ const aditya = {
 
 <br/><br/>
 
-**⭐ If you like what I build, drop a star — it fuels the next project! ⭐**
+```
+> echo "If this profile made you stop scrolling, drop a ⭐"
+> _
+```
 
 <br/>
 </div>
 
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:c9a84c,100:0a0a0a&height=120&section=footer"/>
+<!-- Cyberpunk Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,50:00f0ff,70:0d1117,100:000000&height=100&section=footer"/>
