@@ -332,7 +332,7 @@ creed: >
 
 <br/>
 
-<a href="https://portfolio-aditya-shinde-40.vercel.app/">
+<a href="https://portfolio-xveh.vercel.app/">
   <img src="https://img.shields.io/badge/▶_ENTER_THE_CODEX-c9a06a?style=for-the-badge&labelColor=0d0a07&color=c9a06a"/>
 </a>
 &nbsp;
