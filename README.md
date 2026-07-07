@@ -290,7 +290,7 @@ creed: >
   ║  🧠  Andrew Ng — Agentic AI      —  Certified                      ║
   ║  🛡   Deloitte Cyber Security     —  Certified                      ║
   ║  💳  JPMorgan Software Eng.      —  Certified                      ║
-  ║  🚀  E-Cell Ambassador           —  IIT Madras · Kanpur · Gandhinagar ║
+  ║  🚀  E-Cell Ambassador           —  IIT Madras ·Kanpur·Gandhinagar ║
   ║                                                                    ║
   ╠════════════════════════════════════════════════════════════════════╣
   ║                                                                    ║
