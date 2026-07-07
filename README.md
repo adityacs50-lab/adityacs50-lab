@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-aditya-shinde-40.vercel.app/">
+<a href="https://portfolio-xveh.vercel.app/">
   <img src="https://img.shields.io/badge/THE_CODEX_(PORTFOLIO)-0d0a07?style=for-the-badge&color=c9a06a&logoColor=c9a06a&logo=bookstack&label=OPEN"/>
 </a>
 &nbsp;
